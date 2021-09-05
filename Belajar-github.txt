@@ -1,0 +1,5 @@
+Resolusi belajar sandhika
+-complete API playlist
+-complete nodejs playlist
+-complete github playlist
+-complete freecodeCamp playlist
