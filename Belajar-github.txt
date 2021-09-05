@@ -3,3 +3,5 @@ Resolusi belajar sandhika
 -complete nodejs playlist
 -complete github playlist
 -complete freecodeCamp playlist
+-complete studycase :ecommerce
+-complete FE & BE :ecommerce
